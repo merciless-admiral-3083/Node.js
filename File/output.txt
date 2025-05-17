@@ -1,0 +1,2 @@
+Data read from the input.txt: This is an input file AAAAAAAAAAA!!!!!!!!!. 
+ Date created Sat May 17 2025 13:07:38 GMT+0530 (India Standard Time)
